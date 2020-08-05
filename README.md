@@ -1,4 +1,6 @@
-# personal-awesome-list
+# Dasdasch's Awesome List
+
+Resoureces for web developers.
 
 ## UI/UX
 
