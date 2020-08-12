@@ -12,3 +12,7 @@ Resoureces for web developers.
 ### Icons\Elements
 
 - [System Icons](https://systemuicons.com/)
+
+## Misc
+
+- [Check word meaning in other languages](http://wordsafety.com/)
