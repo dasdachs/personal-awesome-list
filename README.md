@@ -13,6 +13,12 @@ Resoureces for web developers.
 
 - [System Icons](https://systemuicons.com/)
 
+## DevOps
+
+### Kubernetes
+
+- [Kubenetes yaml generator](https://k8syaml.com/)
+
 ## Misc
 
 - [Check word meaning in other languages](http://wordsafety.com/)
