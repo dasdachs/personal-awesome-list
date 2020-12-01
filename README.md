@@ -13,6 +13,12 @@ Resoureces for web developers.
 
 - [System Icons](https://systemuicons.com/)
 
+## CSS
+
+### General
+
+- [CSS Examples](https://css-examples.wizardzines.com/#inline-block-looks)
+
 ## DevOps
 
 ### Kubernetes
